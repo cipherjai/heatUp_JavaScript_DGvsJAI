@@ -193,3 +193,6 @@ CREATE TABLE LEVEL_1
 		MEMBER_NAME				VARCHAR2(50)
 
 )
+
+
+-- I dont understand this segment !
